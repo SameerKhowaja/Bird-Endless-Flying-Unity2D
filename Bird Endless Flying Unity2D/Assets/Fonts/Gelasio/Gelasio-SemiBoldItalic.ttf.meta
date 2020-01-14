@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 4c0d72700e0f83f4daca362278d1e3d5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gelasio
+  fontNames:
+  - Gelasio
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0e5efd129789ca145b4556f9505dc640, type: 3}
+  - {fileID: 12800000, guid: 3760d653b51c59442903fb891f2a8bf2, type: 3}
+  - {fileID: 12800000, guid: 38457d24860812940b4352d1aca2c340, type: 3}
+  - {fileID: 12800000, guid: 279f3c1bc44839d4a81b6a190875949c, type: 3}
+  - {fileID: 12800000, guid: 4806cb2d43229c34eb0939a130d26dd7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
